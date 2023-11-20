@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "partidosfutbol-60d17": {
+      "hosting": {
+        "ejemploChart": [
+          "partidosfutbol-60d17"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "partidosfutbol-60d17"
+  }
+}
